@@ -14,7 +14,10 @@
       </a> &nbsp;&nbsp;
       <a href="https://www.linkedin.com/wahbisaid/" >
       <img align="center" alt="Wahbi Said | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a> &nbsp;&nbsp;
+      </a>
+      <a href="https://www.codewars.com/users/wahbi" >
+      <img align="center" alt="Wahbi Said | CodeWars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
+      </a>     
       <br>
      <div>
      <h2> 🛠 &nbsp;Tech Stack</h2>
