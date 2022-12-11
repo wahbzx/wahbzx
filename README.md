@@ -4,7 +4,7 @@
        <ul>
         <li>🎓 &nbsp; 2nd Year Student at Imperial College London</li>
         <li>📚 &nbsp; Studying MEng Computing</li>
-        <li>💡 &nbsp; Still learning and figuring things out</li>
+        <li>💡 &nbsp; Interested in everything Cyber Secuirty</li>
        </ul>
        <p align="center">
          <br>
