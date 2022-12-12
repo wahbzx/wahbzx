@@ -17,7 +17,13 @@
       </a>
       <a href="https://www.codewars.com/users/wahbi" >
       <img align="center" alt="Wahbi Said | CodeWars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
-      </a>     
+      </a>
+      <a href="https://tryhackme.com/p/wahbi.a.said1" >
+      <img align="center" alt="Wahbi Said | TryHackMe" src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" />
+      </a>
+       <a href="https://app.hackthebox.com/profile/1280566" >
+      <img align="center" alt="Wahbi Said | Hack The Box" src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black" />
+      </a>
       <br>
      <div>
      <h2> 🛠 &nbsp;Tech Stack</h2>
