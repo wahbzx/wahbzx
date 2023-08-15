@@ -1,19 +1,11 @@
 ### Hi there 👋 I'm Wahbi
 <table style="width:100%">
-      <h2> 💻 &nbsp;About Me </h2>
-       <ul>
-        <li>🎓 &nbsp; 2nd Year Student at Imperial College London</li>
-        <li>📚 &nbsp; Studying MEng Computing</li>
-        <li>💡 &nbsp; Interested in everything Cyber Secuirty</li>
-       </ul>
        <p align="center">
          <br>
         <img height="150em" width="100%"src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahbzx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </p>
       <h2><b>Connect with me on</b></h2>
       </a> &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/wahbisaid/" >
-      <img align="center" alt="Wahbi Said | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       <a href="https://www.codewars.com/users/wahbi" >
       <img align="center" alt="Wahbi Said | CodeWars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
