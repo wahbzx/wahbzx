@@ -1,9 +1,6 @@
 ### Hi there 👋 I'm Wahbi
 <table style="width:100%">
        <p align="center">
-         <br>
-        <img height="150em" width="100%"src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahbzx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        </p>
       <h2><b>Connect with me on</b></h2>
       </a> &nbsp;&nbsp;
       </a>
