@@ -44,4 +44,4 @@
 
 ---
 
-*Building things from scratch. Finishing them is a separate project.*
+*I like building things from scratch. but finishing them is a different problem 😅.*
